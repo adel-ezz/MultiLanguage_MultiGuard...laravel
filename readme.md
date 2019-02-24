@@ -67,3 +67,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## steps
+1- you must composer isntall 
+2- php artisan migrate after setting your database in .env file
+3- php artsan db:seed
+4- youlocal://admin/login
+5-userName:admin@admin.com
+Password:password
+..........................Engoy .............
