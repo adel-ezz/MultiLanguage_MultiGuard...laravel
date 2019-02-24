@@ -1,0 +1,21 @@
+var __ = [];
+__['Are You Sure?']="Are You Sure?";
+__['Ok']="Ok";
+__['cancel']="cancel";
+__['error try again']="error try again";
+__['Are You sure you want to delete this item ?']="Are You sure you want to delete this item ?";
+__['if we delete it we cant retrieve it again ']="if we delete it we cant retrieve it again ";
+__['Delete']="Delete";
+
+__['search']="search";
+__['start'] = "start";
+__['end'] = "end";
+__['next'] = "next";
+__['previous'] = "previous";
+__['no element founded'] = "no element founded";
+__['show']="show";
+__['element']="element";
+__['from']="from";
+__['to']="to";
+__['Put Valid Data']="Put Valid Data";
+__['required']="required";
